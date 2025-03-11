@@ -1,1 +1,1 @@
-# Ai-detection
+# AI-Object-Detection
